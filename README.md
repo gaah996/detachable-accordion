@@ -1,29 +1,37 @@
-# accordion
+# Detachable Accordion
 
-## Project setup
-```
-yarn install
-```
+Simple multi-level html accordion that implements a "detachable" behavior when expanded.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+---
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+## Running the project:
 
-### Run your tests
-```
-yarn run test
-```
+- Install dependencies
 
-### Lints and fixes files
-```
-yarn run lint
-```
+  ```
+  yarn install
+  ```
 
-### Customize configuration
+- Start dev server
+  ```
+  yarn run serve
+  ```
+
+## Building the project
+
+- Install dependencies
+
+  ```
+  yarn install
+  ```
+
+- Build project
+  ```
+  yarn run build
+  ```
+
+---
+
+## Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
